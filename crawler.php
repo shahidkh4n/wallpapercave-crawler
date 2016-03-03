@@ -8,7 +8,7 @@ if (count($argv) <=1) {
 	print "Please provide dork to search!\n";
 	print "Example:\n[-]\tphp $argv[0] -u <wallpapercave.com url> -d=<folder-to-save>\t[-]\n";
 	print "==================================\n";
-	print "+				+\n+\tScript By #CrazyGeek\t+\n+				+\n";
+	print "+				+\n+\tScript By #ShahidKhan\t+\n+				+\n";
 	print "==================================";
 }else{
 	//$search = getopt('',array('u:', 'd:'));
