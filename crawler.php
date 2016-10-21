@@ -56,6 +56,7 @@ if (count($argv) <=1) {
 		    	fwrite($fh, $imgFile[0] );
 		    	echo "$i> ".$realfilename."\n";
 		    	$i++;
+		    	fclose($fh);
 		    }
 	}
 	}
